@@ -108,6 +108,18 @@ body {
 
 }
 
+/*.area {
+
+    max-width: 1200px;
+    width: 100vh;
+    margin-inline: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}*/
+
 .immagine1 {
     
     /*border: 1px dashed red;*/
