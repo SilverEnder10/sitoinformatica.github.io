@@ -1,0 +1,114 @@
+@media screen and (max-width: 1080px) {
+
+    .box {
+
+        width: 100%;
+
+    }
+
+    .box1 {
+
+        height: 80px;
+        
+    }
+
+    .box2 {
+
+        width: 100%;
+        height: 500px;
+        
+        
+    }
+
+    .img1 {
+
+        top: 15%;
+        left: 36%;
+        /*right: 50%;*/
+        /*bottom: 10%;*/
+        /*border: 1px solid white;*/
+
+    }
+
+    .t-master {
+
+        top: 5%;
+
+    }
+
+    .t-leonardo {
+
+        top: 5%;
+
+    }
+
+    .box3 {
+
+        width: 100%;
+        height: 500px;
+        
+    }
+
+    .img2 {
+
+        width: 270px;
+        height: 270px;
+        position: relative;
+        top: 15%;
+        left: 36%;
+        /*right: 10%;*/
+        /*bottom: 10%;*/
+        /*border: 1px solid white;*/
+    
+    
+    }
+
+    .t-designer {
+
+        top: 5%;
+
+    }
+
+    .t-matteo {
+
+        top: 5%;
+
+    }
+
+
+    .box4 {
+
+        width: 100%;
+        height: 500px;
+        
+    }
+
+    .img3 {
+
+        top: 15%;
+        left: 36%;
+        /*right: 10%;*/
+        /*bottom: 10%;*/
+        /*border: 1px solid white;*/
+    
+    }
+
+    .t-architect {
+
+        top: 5%;
+
+    }
+
+    .t-valerio {
+
+        top: 5%;
+
+    }
+
+    .box6 {
+
+        width: 100%;
+
+    }
+
+}
