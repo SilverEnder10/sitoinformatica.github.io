@@ -11,7 +11,6 @@
 body, html {
 
     background-color: #141414;
-    background-color: #ffffff;
     height: 100%;
     width: 100%;
     /*border: 1px solid white;*/
@@ -33,8 +32,6 @@ body, html {
     float: left;
     justify-self: center;
     align-items: center;
-    /*width: 100%;*/
-    /*height: 150px;*/
     /*border: 1px solid white;*/
 
 }
@@ -43,10 +40,11 @@ body, html {
 
     height: 200px;
     background-color: red;
-    position: relative;
+    position: sticky;
+    top: 0%;
+    z-index: 1000;
     background-color: #282828;
     /*border: 1px solid white;*/
-    
     
 }
 
@@ -63,15 +61,13 @@ body, html {
 
 .t-img {
 
-    width: 50%;
-    height: 40px;
+    width: 100%;
+    height: fit-content;
     text-align: center;
     position: absolute;
-    top: 0%;
-    left: 0%;
-    right: 0%;
-    bottom: 5%;
-    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: white;
     font-family: rockwell;
     font-size: 18px;
@@ -81,11 +77,10 @@ body, html {
 
 .menu {
 
-    width: 25%;
+    width: 100%;
     height: 40px;
     text-align: right;
     position: absolute;
-    margin: auto;
     top: 2%;
     right: 1%;
     font-size: 18px;
@@ -137,9 +132,9 @@ body, html {
     font-weight: bold;
     font-family: roboto;
     width: 100%;
-    height: 30px;
-    top: 10%;
+    height: fit-content;
     color: #ffffff;
+    padding: 5px 0px 5px 0px;
     /*border: 1px solid white;*/
 
 }
@@ -155,9 +150,10 @@ body, html {
     font-size: 18px;
     font-family: roboto;
     width: 100%;
-    height: 250px;
+    height: fit-content;
     top: 10%;
     color: #ffffff;
+    padding: 5px 0px 5px 0px;
     /*border: 1px solid white;*/
 
 }
@@ -187,10 +183,9 @@ body, html {
     width: 220px;
     height: 250px;
     position: relative;
-    top: 15%;
-    left: 14%;
-    /*right: 10%;*/
-    /*bottom: 10%;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     /*border: 1px solid white;*/
 
 }
@@ -220,10 +215,9 @@ body, html {
     width: 200px;
     height: 200px;
     position: relative;
-    top: 25%;
-    left: 8%;
-    /*right: 10%;*/
-    /*bottom: 10%;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     /*border: 1px solid white;*/
 
 
@@ -254,10 +248,9 @@ body, html {
     width: 210px;
     height: 410px;
     position: relative;
-    top: 15%;
-    left: 5%;
-    /*right: 10%;*/
-    /*bottom: 10%;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     /*border: 1px solid white;*/
 
 }
@@ -276,12 +269,13 @@ body, html {
 
     text-align: center;
     position: relative;
+    font-weight: bold;
     font-size: 20px;
     font-family: roboto;
     width: 100%;
-    height: 30px;
-    top: 4%;
+    height: fit-content;
     color: #ffffff;
+    padding: 5px 0px 5px 0px;
     /*border: 1px solid white;*/
 
 
@@ -291,11 +285,12 @@ body, html {
 
     text-align: center;
     position: relative;
+    font-weight: bold;
     font-size: 20px;
     font-family: roboto;
     width: 100%;
-    height: 30px;
-    top: 4%;
+    height: fit-content;
+    padding: 5px 0px 5px 0px;
     color: #ffffff;
     /*border: 1px solid white;*/
 
@@ -308,8 +303,8 @@ body, html {
     font-size: 18px;
     font-family: roboto;
     width: 100%;
-    height: 220px;
-    top: 5%;
+    height: fit-content;
+    padding: 5px 0px 5px 0px;
     color: #ffffff;
     /*border: 1px solid white;*/
 
@@ -342,8 +337,6 @@ body, html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /*right: 10%;*/
-    /*bottom: 10%;*/
     /*border: 1px solid white;*/
 
 }
@@ -375,8 +368,6 @@ body, html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /*right: 10%;*/
-    /*bottom: 10%;*/
     /*border: 1px solid white;*/
 
 }
@@ -395,12 +386,13 @@ body, html {
 
     text-align: center;
     position: relative;
+    font-weight: bold;
     font-size: 20px;
     font-family: roboto;
     width: 100%;
-    height: 25px;
-    top: 40%;
+    height: fit-content;
     color: #ffffff;
+    padding: 30% 0px 5px 0px;
     /*border: 1px solid white;*/
 
 }
@@ -416,8 +408,8 @@ body, html {
     font-size: 18px;
     font-family: roboto;
     width: 100%;
-    height: 50px;
-    top: 45%;
+    height: fit-content;
+    padding: 5% 0px 5px 0px;
     color: #ffffff;
     /*border: 1px solid white;*/
     
@@ -441,7 +433,7 @@ body, html {
     font-size: 20px;
     font-family: 'Times New Roman';
     width: 100%;
-    height: 20px;
+    height: fit-content;
     top: 100%;
     color: #ffffff;
     /*border: 1px solid white;*/

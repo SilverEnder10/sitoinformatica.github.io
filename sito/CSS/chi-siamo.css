@@ -42,7 +42,9 @@ body, html {
 
     height: 200px;
     background-color: red;
-    position: relative;
+    position: sticky;
+    top: 0%;
+    z-index: 1000;
     /*border: 1px solid white;*/
    background-color: #282828;
     

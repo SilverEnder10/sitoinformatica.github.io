@@ -2,121 +2,73 @@
 
     *{
 
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        text-decoration: none;
         /*border: 1px solid white;*/
     
     }
     
     body, html {
-    
-        background-color: #141414;
-        height: 100%;
-        width: 100%;
+
         /*border: 1px solid white;*/
     
     }
     
     .area {
-    
-        height: 100%;
-        max-width: 1200px;
-        margin-left: auto;
-        margin-right: auto;
+
         /*border: 1px solid white;*/
     
     }
     
     .box {
     
-        float: left;
-        justify-self: center;
-        align-items: center;
-        /*width: 100%;*/
-        /*height: 150px;*/
         /*border: 1px solid white;*/
     
     }
     
     .box0 {
-        
-        width: 100%;
-        height: 200px;
-        background-color: red;
-        position: relative;
-        background-color: #282828;
+
         /*border: 1px solid white*/
-        
         
     }
     
     .banner-image {
-    
-        width: 100%;
-        height: 200px;
-        object-fit: cover;
-        filter: brightness(40%);
-        position: relative;
+
         /*border: 1px solid white;*/
         
     }
     
     .t-img {
     
-        width: 100%;
-        height: 40px;
-        text-align: center;
-        position: absolute;
-        top: 0%;
-        left: 0%;
-        right: 0%;
-        bottom: 5%;
-        margin: auto;
-        color: white;
-        font-family: rockwell;
         font-size: 16px;
         /*border: 1px solid white;*/
         
     }
     
     .menu {
-    
-        width: 100%;
-        height: 40px;
+        
         text-align: center;
-        position: absolute;
-        margin: auto;
         top: 60%;
         right: 0%;
         left: 0%;
+        bottom: 0%;
         font-size: 16px;
-        font-family:rockwell;
         /*border: 1px solid white;*/
     
     }
     
     .menu > li {
     
-        display: inline-block;
-        padding: 15px;
-        font-weight: bold;
         /*border: 1px solid white;*/
     
     }
     
     .menu > li > a{
-    
-        text-decoration: none;
-        color: #ffffff;
+
         /*border: 1px solid white;*/
     
     }
     
     .menu > li > a:hover {
     
-        color: #3a3a3a;
         /*border: 1px solid white;*/
     
     }
@@ -125,9 +77,6 @@
     
         width: 100%;
         height: fit-content;
-        background-color: orange;
-        position: relative;
-        background-color: #282828;
         /*border: 1px solid white;*/
         
     }
@@ -135,14 +84,7 @@
     .t-testo {
     
         text-align: center;
-        position: relative;
         font-size: 18px;
-        font-weight: bold;
-        font-family: roboto;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -150,13 +92,7 @@
     .indirizzo {
     
         text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -165,19 +101,13 @@
     
         width: 50%;
         height: 350px;
-        position: relative;
-        background-color: yellow;
-        background-color: #282828;
         /*border: 1px solid white;*/
         
     
     }
     
     .immagine1 {
-    
-        width: 100%;
-        height: 350px;
-        position: relative;
+
         /*border: 1px solid white;*/
 
     }
@@ -186,14 +116,7 @@
     
         width: 180px;
         height: 210px;
-        position: relative;
-        /*right: 10%;*/
-        /*bottom: 10%;*/
         /*border: 1px solid white;*/
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-
     
     }
     
@@ -201,9 +124,6 @@
     
         width: 50%;
         height: 350px;
-        position: relative;
-        background-color: green;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
@@ -212,7 +132,6 @@
     
         width: 100%;
         height: 350px;
-        position: relative;
         /*border: 1px solid white;*/
     
     }
@@ -221,14 +140,7 @@
     
         width: 235px;
         height: 235px;
-        position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        /*right: 10%;*/
-        /*bottom: 10%;*/
         /*border: 1px solid white;*/
-    
     
     }
     
@@ -236,8 +148,6 @@
     
         width: 100%;
         height: 400px;
-        background-color: blue;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     
@@ -246,8 +156,7 @@
     .immagine3 {
     
         width: 100%;
-        height: 400px;
-        position: relative;
+        height: 350px;
         /*border: 1px solid white;*/
         
     }
@@ -256,15 +165,7 @@
     
         width: 180px;
         height: 350px;
-        position: relative;
-        top: 15%;
-        left: 5%;
-        /*right: 10%;*/
-        /*bottom: 10%;*/
         /*border: 1px solid white;*/
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
     
     }
     
@@ -272,8 +173,6 @@
     
         width: 100%;
         height: fit-content;
-        background-color: cyan;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
@@ -281,30 +180,15 @@
     .t-profilo {
     
         text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        font-weight: bold;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
-    
     
     }
     
     .t-tecnico {
     
         text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        font-weight: bold;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -312,13 +196,7 @@
     .t-descrizione {
     
         text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -327,8 +205,6 @@
     
         width: 100%;
         height: 400px;
-        background-color: brown;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
@@ -337,7 +213,6 @@
     
         width: 100%;
         height: 400px;
-        position: relative;
         /*border: 1px solid white;*/
     
     }
@@ -346,12 +221,6 @@
     
         width: 210px;
         height: 350px;
-        position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        /*right: 10%;*/
-        /*bottom: 10%;*/
         /*border: 1px solid white;*/
     
     }
@@ -360,8 +229,6 @@
     
         width: 100%;
         height: 300px;
-        background-color: pink;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
@@ -370,7 +237,6 @@
     
         width: 100%;
         height: 300px;
-        position: relative;
         /*border: 1px solid white;*/
     
     }
@@ -379,12 +245,6 @@
     
         width: 400px;
         height: 250px;
-        position: relative;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        /*right: 10%;*/
-        /*bottom: 10%;*/
         /*border: 1px solid white;*/
     
     }
@@ -393,22 +253,13 @@
     
         width: 100%;
         height: fit-content;
-        background-color: purple;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
     
     .t-info {
     
-        text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        font-weight: bold;
-        width: 100%;
-        height: fit-content;
-        color: #ffffff;
         padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
@@ -416,14 +267,8 @@
     
     .t-sito {
     
-        text-align: center;
-        position: relative;
         font-size: 16px;
-        font-family: roboto;
-        width: 100%;
-        height: fit-content;
         padding: 5px 0px 5px 0px;
-        color: #ffffff;
         /*border: 1px solid white;*/
         
     }
@@ -432,8 +277,6 @@
     
         width: 100%;
         height: 100px;
-        background-color: grey;
-        background-color: #282828;
         /*border: 1px solid white;*/
     
     }
@@ -441,14 +284,7 @@
     
     .t-footer {
     
-        text-align: center;
-        position: relative;
         font-size: 14px;
-        font-family: 'Times New Roman';
-        width: 100%;
-        height: 20px;
-        top: 100%;
-        color: #ffffff;
         /*border: 1px solid white;*/
        
     }
