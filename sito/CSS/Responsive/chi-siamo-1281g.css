@@ -2,49 +2,30 @@
 
     *{
 
-        margin: 0;
-        padding: 0;
-        list-style: none;
-        text-decoration: none;
         /*border: 1px solid white;*/
     
     }
     
     body, html {
-    
-        background-color: #141414;
-        height: 100%;
-        width: 100%;
+
         /*border: 1px solid white;*/
     
     }
     
     .area {
-    
-        height: 100%;
-        max-width: 1200px;
-        margin-left: auto;
-        margin-right: auto;
+
         /*border: 1px solid white;*/
     
     }
     
     .box {
     
-        float: left;
-        justify-self: center;
-        align-items: center;
-        /*width: 100%;*/
-        /*height: 150px;*/
         /*border: 1px solid white;*/
     
     }
     
     .box0 {
-    
-        height: 200px;
-        background-color: red;
-        /*border: 1px solid white;*/
+
        background-color: #282828;
         
     }
