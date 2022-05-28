@@ -147,7 +147,7 @@
     .box2 {
     
         width: 33.33333333333333%;
-        height: 500px;
+        height: 450px;
         position: relative;
         background-color: yellow;
         background-color: #282828;
@@ -199,7 +199,7 @@
     
         text-align: center;
         position: relative;
-        font-size: 30px;
+        font-size: 25px;
         font-weight: bold;
         font-family: roboto;
         width: 100%;
@@ -213,7 +213,7 @@
     .box3 {
     
         width: 33.33333333333333%;
-        height: 500px;
+        height: 450px;
         position: relative;
         background-color: green;
         background-color: #282828;
@@ -266,7 +266,7 @@
     
         text-align: center;
         position: relative;
-        font-size: 30px;
+        font-size: 25px;
         font-weight: bold;
         font-family: roboto;
         width: 100%;
@@ -280,7 +280,7 @@
     .box4 {
     
         width: 33.33333333333333%;
-        height: 500px;
+        height: 450px;
         background-color: blue;
         background-color: #282828;
         /*border: 1px solid white;*/
@@ -306,7 +306,6 @@
         transform: translate(-50%, -50%);
         border-radius: 1000px;
         object-fit: cover;
-        object-position: 100% 25%;
         /*right: 10%;*/
         /*bottom: 10%;*/
         /*border: 1px solid white;*/
@@ -332,7 +331,7 @@
     
         text-align: center;
         position: relative;
-        font-size: 30px;
+        font-size: 25px;
         font-weight: bold;
         font-family: roboto;
         width: 100%;

@@ -138,9 +138,10 @@
         font-weight: bold;
         font-family: roboto;
         width: 100%;
-        height: 30px;
+        height: fit-content;
         top: 10%;
         color: #ffffff;
+        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -149,16 +150,13 @@
     
         text-align: justify;
         position: relative;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
         font-size: 18px;
         font-family: roboto;
         width: 100%;
-        height: 250px;
+        height: fit-content;
         top: 10%;
         color: #ffffff;
+        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -277,11 +275,12 @@
     
         text-align: center;
         position: relative;
+        font-weight: bold;
         font-size: 20px;
         font-family: roboto;
         width: 100%;
-        height: 30px;
-        top: 4%;
+        height: fit-content;
+        padding: 5px 0px 5px 0px;
         color: #ffffff;
         /*border: 1px solid white;*/
     
@@ -292,11 +291,12 @@
     
         text-align: center;
         position: relative;
+        font-weight: bold;
         font-size: 20px;
         font-family: roboto;
         width: 100%;
-        height: 30px;
-        top: 4%;
+        height: fit-content;
+        padding: 5px 0px 5px 0px;
         color: #ffffff;
         /*border: 1px solid white;*/
     
@@ -309,8 +309,8 @@
         font-size: 18px;
         font-family: roboto;
         width: 100%;
-        height: 220px;
-        top: 5%;
+        height: fit-content;
+        padding: 5px 0px 5px 0px;
         color: #ffffff;
         /*border: 1px solid white;*/
     
@@ -396,11 +396,12 @@
     
         text-align: center;
         position: relative;
+        font-weight: bold;
         font-size: 20px;
         font-family: roboto;
         width: 100%;
-        height: 25px;
-        top: 40%;
+        height: fit-content;
+        padding: 5px 0px 5px 0px;
         color: #ffffff;
         /*border: 1px solid white;*/
     
@@ -410,16 +411,12 @@
     
         text-align: center;
         position: relative;
-        left: 0;
-        right: 0;
-        top: 0;
-        bottom: 0;
         font-size: 18px;
         font-family: roboto;
         width: 100%;
-        height: 50px;
-        top: 45%;
+        height: fit-content;
         color: #ffffff;
+        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
         
     }
