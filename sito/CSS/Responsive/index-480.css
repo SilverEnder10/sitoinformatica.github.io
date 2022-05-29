@@ -30,13 +30,13 @@
           
     }
     
-    .banner-image {
+    .banner-img {
 
         /*border: 1px solid white;*/
         
     }
     
-    .t-img {
+    .titolo-img {
 
         font-size: 14px;
         /*border: 1px solid white;*/
@@ -80,7 +80,7 @@
         
     }
     
-    .t-testo {
+    .t-indirizzo {
 
         text-align: center;
         font-size: 16px;
@@ -88,7 +88,7 @@
     
     }
     
-    .indirizzo {
+    .t-in {
     
         text-align: center;
         font-size: 14px;

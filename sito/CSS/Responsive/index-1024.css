@@ -30,14 +30,15 @@
         
     }
     
-    .banner-image {
+    .banner-img {
     
         /*border: 1px solid white;*/
         
     }
     
-    .t-img {
-    
+    .titolo-img {
+        
+        font-size: 18px;
         /*border: 1px solid white;*/
         
     }
@@ -79,14 +80,14 @@
         
     }
     
-    .t-testo {
+    .t-indirizzo {
     
         text-align: center;
         /*border: 1px solid white;*/
     
     }
     
-    .indirizzo {
+    .t-in {
     
         text-align: center;
         /*border: 1px solid white;*/

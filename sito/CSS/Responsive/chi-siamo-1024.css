@@ -30,15 +30,15 @@
         
     }
     
-    .banner-image {
+    .banner-img {
  
         /*border: 1px solid white;*/
         
     }
     
-    .t-img {
+    .titolo-img {
 
-        font-size: 16px;
+        font-size: 18px;
         /*border: 1px solid white;*/
         
     }
@@ -78,7 +78,7 @@
     
     .t-chi {
 
-        font-size: 40px;
+        font-size: 35px;
         width: 100%;
         height: fit-content;
         /*border: 1px solid white;*/
