@@ -169,7 +169,7 @@ body, html {
     transform: translate(-50%, -50%);
     border-radius: 1000px;
     object-fit: cover;
-    /*border: 1px solid white;*/
+    border: 5px solid #30754d;
 
 }
 
@@ -240,7 +240,7 @@ body, html {
     border-radius: 1000px;
     object-fit: cover;
     object-position: 100% 70%;
-    /*border: 1px solid white;*/
+    border: 5px solid #4c433a;
 
 }
 
@@ -310,7 +310,7 @@ body, html {
     border-radius: 1000px;
     object-fit: cover;
     object-position: 100% 25%;
-    /*border: 1px solid white;*/
+    border: 5px solid #920f0e;
 
 }
 
