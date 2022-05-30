@@ -84,10 +84,11 @@
     
     .t-chi {
 
-        font-size: 25px;
+        font-size: 30px;
         width: 100%;
         height: fit-content;
-        /*border: 1px solid white;*/
+        padding: 10px 0px 10px 0px;
+        /*border: 2px solid white;*/
     
     }
     

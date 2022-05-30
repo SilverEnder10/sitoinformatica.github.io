@@ -90,6 +90,7 @@
     .t-in {
     
         text-align: center;
+        padding: 5px 0px 35px 0px;
         /*border: 1px solid white;*/
     
     }
@@ -243,16 +244,12 @@
     
     .t-info {
 
-        top: 30%;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
     
     }
     
     .t-sito {
         
-        top: 35%;
-        padding: 5px 0px 5px 0px;
         /*border: 1px solid white;*/
         
     }

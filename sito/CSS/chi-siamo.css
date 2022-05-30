@@ -121,7 +121,7 @@ body, html {
     height: 80px;
     background-color: orange;
     position: relative;
-    background-color: #282828;
+    background-color: #121212;
     /*border: 1px solid white;*/
     
 }
@@ -130,13 +130,13 @@ body, html {
 
     text-align: center;
     position: relative;
-    font-size: 40px;
+    font-size: 42px;
     font-weight: bold;
     font-family: roboto;
     width: 100%;
     height: fit-content;
     color: #ffffff;
-    padding: 20px 0px 0px 0px;
+    padding: 15px 0px 0px 0px;
     /*border: 1px solid white;*/
 
 }

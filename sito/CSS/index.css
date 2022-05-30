@@ -154,7 +154,7 @@ body, html {
     width: 100%;
     height: fit-content;
     color: #ffffff;
-    padding: 5px 0px 35px 0px;
+    padding: 5px 0px 35px 20px;
     /*border: 1px solid white;*/
 
 }
@@ -397,7 +397,7 @@ body, html {
     width: 100%;
     height: fit-content;
     color: #ffffff;
-    padding: 35px 0px 10px 0px;
+    padding: 0px 0px 10px 0px;
     /*border: 1px solid white;*/
 
 }
@@ -413,7 +413,7 @@ body, html {
     font-family: roboto;
     width: 100%;
     height: fit-content;
-    padding: 10px 0px 35px 0px;
+    padding: 10px 0px 0px 0px;
     color: #ffffff;
     /*border: 1px solid white;*/
     
