@@ -130,10 +130,13 @@ body, html {
 
     text-align: right;
     position: relative;
+    width: 90%;
     font-size: 20px;
     font-weight: bold;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%);
     font-family: roboto;
-    width: 100%;
     height: fit-content;
     color: #ffffff;
     padding: 35px 0px 5px 0px;
@@ -151,10 +154,13 @@ body, html {
     bottom: 0;
     font-size: 18px;
     font-family: roboto;
-    width: 100%;
+    width: 90%;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, 0%);
     height: fit-content;
     color: #ffffff;
-    padding: 5px 0px 35px 20px;
+    padding: 5px 0px 35px 0px;
     /*border: 1px solid white;*/
 
 }

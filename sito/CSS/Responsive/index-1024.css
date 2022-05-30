@@ -173,19 +173,31 @@
     
     .t-profilo {
 
+        width: 90%;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }
     
     .t-tecnico {
-    
+        
+        width: 90%;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }
     
     .t-descrizione {
-    
+        
+        width: 90%;
         text-align: center;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }

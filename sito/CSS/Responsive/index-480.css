@@ -183,6 +183,10 @@
     .t-profilo {
 
         font-size: 16px;
+        width: 90%;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }
@@ -190,6 +194,10 @@
     .t-tecnico {
 
         font-size: 16px;
+        width: 90%;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }
@@ -197,6 +205,11 @@
     .t-descrizione {
 
         font-size: 14px;
+        text-align: center;
+        width: 90%;
+        top: 0%;
+        left: 50%;
+        transform: translate(-50%, 0%);
         /*border: 1px solid white;*/
     
     }
